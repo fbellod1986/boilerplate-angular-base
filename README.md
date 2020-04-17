@@ -22,6 +22,14 @@ Proyecto que contiene el esqueleto base que se debe utilizar de ahora en adelant
 Integración continua: Angular + Github + Firebase + Travis CI:
 https://medium.com/angular-chile/integraci%C3%B3n-continua-angular-github-firebase-travis-ci-a1a8946d471a
 
+Entendiendo el LazyLoad y sus beneficios + ANGULAR
+https://medium.com/@fbellod/entendiendo-el-lazyload-y-sus-beneficios-angular-b8ae4bffa199
+
+Como iterar y subir los cambios de tu APP con Angular a Firebase: https://medium.com/front-end-chile/como-iterar-y-subir-los-cambios-de-tu-app-con-angular-a-firebase-658d07d766c7
+
+Firebase: Como subir tu APP de Angular a Firebase.
+https://medium.com/front-end-chile/firebase-como-subir-tu-app-de-angular-a-firebase-93de35ff9f09
+
 Como Integrar el Framework Bootstrap en un proyecto Angular:
 https://medium.com/@fbellod/como-integrar-el-framework-bootstrap-en-un-proyecto-angular-a5d53fa79e03
 
@@ -31,9 +39,6 @@ https://medium.com/@fbellod/como-consultar-la-foto-del-d%C3%ADa-directo-desde-la
 Como setear valores en la cabecera desde el route params con Interceptors + ANGULAR:
 https://medium.com/@fbellod/como-setear-valores-en-la-cabecera-desde-el-route-params-con-interceptors-angular-1b2d025bebb1
 
-Como iterar y subir los cambios de tu APP con Angular a Firebase: https://medium.com/front-end-chile/como-iterar-y-subir-los-cambios-de-tu-app-con-angular-a-firebase-658d07d766c7
-
-Entendiendo el LazyLoad y sus beneficios + ANGULAR: https://medium.com/@fbellod/entendiendo-el-lazyload-y-sus-beneficios-angular-b8ae4bffa199
 
 # Dependencias instaladas
 
