@@ -1,0 +1,11 @@
+{
+    "fixturesFolder": "./stubs",
+    "integrationFolder": "./e2e/features",
+    "pluginsFile": "./e2e/plugins/index.js",
+    "screenshotsFolder": "./e2e/screenshots",
+    "supportFile": "./e2e/support/index.ts",
+    "videosFolder": "./e2e/videos",
+    "baseUrl": "http://localhost:4200",
+    "video": false,
+    "chromeWebSecurity": false
+}

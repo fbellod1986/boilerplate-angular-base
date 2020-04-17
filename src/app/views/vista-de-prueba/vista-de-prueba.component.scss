@@ -1,0 +1,89 @@
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css);
+.kpx_social .kpx_authTitle {
+    text-align: center;
+    line-height: 300%;
+}
+
+.kpx_social .kpx_socialButtons a {
+    color: white;
+    opacity: 0.9;
+}
+
+.kpx_social .kpx_socialButtons a:hover {
+    color: white;
+    opacity: 1;
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-facebook {
+    background: #3b5998;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-facebook:hover {
+    background: #172d5e
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-facebook:focus {
+    background: #fff;
+    color: #3b5998;
+    border-color: #3b5998;
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-github {
+    background: #666666;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-github:hover {
+    background: #333333
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-github:focus {
+    background: #fff;
+    color: #666666;
+    border-color: #666666
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-linkedin {
+    background: #0976b4;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-linkedin:hover {
+    background: #004269
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-linkedin:focus {
+    background: #fff;
+    color: #0976b4;
+    border-color: #0976b4
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-medium {
+    background: #000;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-medium:hover {
+    background: #000
+}
+
+.kpx_social .kpx_socialButtons .kpx_btn-medium:focus {
+    background: #fff;
+    color: #0976b4;
+    border-color: #0976b4
+}
