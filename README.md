@@ -12,7 +12,7 @@ Proyecto que contiene el esqueleto base que se debe utilizar de ahora en adelant
 # Levantar proyecto
 
 1. Clona el repositorio `git clone https://github.com/fbellod1986/boilerplate-angular-base.git`
-2. Ejecuta `ng update @angular/core @angular/cli --next` para actualizar a la ultima version de angular. Con respecto a esto, cualquier duda ver sitio [Angular Update Guide](https://update.angular.io/)
+2. Ejecuta `ng update @angular/core @angular/cli --force` para actualizar a la ultima version de angular. Con respecto a esto, cualquier duda ver sitio [Angular Update Guide](https://update.angular.io/)
 2. Ejecuta `npm install` para instalar todas las dependencias necesarias para que la aplicación pueda levantarse.
 3. Ejecuta `ng serve` en la consola. Navega a `http://localhost:4200/`. La aplicación se volverá a cargar automáticamente si cambia alguno de los archivos de origen.
 
